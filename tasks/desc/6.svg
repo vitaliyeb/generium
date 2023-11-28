@@ -1,4 +1,4 @@
-<svg width="1220" height="2019" viewBox="0 0 1220 2019" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1220" height="1963" viewBox="0 0 1220 1963" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g filter="url(#filter0_d_638_514)">
 <g clip-path="url(#clip0_638_514)">
 <rect x="43" y="44" width="1120" height="1875" rx="51" fill="white"/>
@@ -134,7 +134,7 @@
 <ellipse cx="1139.21" cy="101.711" rx="5.94841" ry="8.48993" fill="#FC8E19"/>
 <ellipse cx="1139.21" cy="101.711" rx="5.94841" ry="8.48993" fill="#FC8E19"/>
 <ellipse cx="1139.21" cy="101.711" rx="5.94841" ry="8.48993" fill="#62AABA"/>
-<rect x="1007" y="63" width="103" height="73" fill="url(#pattern0122)"/>
+<rect x="1007" y="63" width="103" height="73" fill="url(#pattern000)"/>
 <g filter="url(#filter4_d_638_514)">
 <path d="M1083.24 1187L1001.31 1095.83L992 1087.26H1005.66V1076.35L1016.21 1081.81V1067L1100 1157.39L1086.34 1151.94L1091.31 1165.96H1078.9L1083.24 1187Z" fill="#ADD6E3"/>
 <path d="M1083.24 1187L1001.31 1095.83L992 1087.26H1005.66V1076.35L1016.21 1081.81V1067L1100 1157.39L1086.34 1151.94L1091.31 1165.96H1078.9L1083.24 1187Z" stroke="#ADD6E3" stroke-width="3"/>
@@ -143,7 +143,7 @@
 <path d="M189.241 1364L107.31 1272.83L98 1264.26H111.655V1253.35L122.207 1258.81V1244L206 1334.39L192.345 1328.94L197.31 1342.96H184.897L189.241 1364Z" fill="#ADD6E3"/>
 <path d="M189.241 1364L107.31 1272.83L98 1264.26H111.655V1253.35L122.207 1258.81V1244L206 1334.39L192.345 1328.94L197.31 1342.96H184.897L189.241 1364Z" stroke="#ADD6E3" stroke-width="3"/>
 </g>
-<rect x="104" y="175" width="839" height="229" fill="url(#pattern11111)"/>
+<rect x="104" y="175" width="839" height="229" fill="url(#pattern011)"/>
 <defs>
 <filter id="filter0_d_638_514" x="22" y="23" width="1170" height="1925" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
@@ -186,7 +186,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_638_514"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_638_514" result="shape"/>
 </filter>
-<pattern id="pattern0122" patternContentUnits="objectBoundingBox" width="1" height="1">
+<pattern id="pattern000" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_638_514" transform="matrix(0.00774437 0 0 0.010927 -10.4757 -0.976038)"/>
 </pattern>
 <filter id="filter4_d_638_514" x="984.156" y="1063.18" width="120.943" height="136.951" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -209,7 +209,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_638_514"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_638_514" result="shape"/>
 </filter>
-<pattern id="pattern11111" patternContentUnits="objectBoundingBox" width="1" height="1">
+<pattern id="pattern011" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image1_638_514" transform="matrix(0.000899281 0 0 0.00328947 -0.104317 -0.723684)"/>
 </pattern>
 <clipPath id="clip0_638_514">

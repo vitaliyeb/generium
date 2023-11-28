@@ -1,4 +1,4 @@
-<svg width="1220" height="1619" viewBox="0 0 1220 1619" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1220" height="1603" viewBox="0 0 1220 1603" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g clip-path="url(#clip0_639_1659)">
 <g filter="url(#filter0_d_639_1659)">
 <g clip-path="url(#clip1_639_1659)">
@@ -15,7 +15,7 @@
 <g mask="url(#mask0_639_1659)">
 <path d="M470 1117.51C390 1095.82 150 1052.96 40 1034.24V1560H1159C1163.67 1319.87 1160 1143.52 1166 1006.99C1167.08 982.522 1082 1076.84 1034 1117.51C995.6 1150.04 912.667 1235.64 876 1274.37C774 1231.12 550 1139.2 470 1117.51Z" fill="url(#paint0_linear_639_1659)"/>
 <path d="M659 1355.57C607.8 1358.67 445.667 1389.14 371 1403.98H361L435 1374.94C498.333 1362.67 656.2 1335.82 781 1326.52C937 1314.9 1015.76 1288.99 1035 1270.36C1073 1233.57 1063 1187.09 1073 1152.23C1081 1124.35 1137 1073.48 1163 1051.54V1105.27C1161.78 1106.06 1160.89 1106.58 1160.25 1106.91C1158.42 1109.53 1153.66 1115.33 1143 1127.06C1107.8 1165.79 1121 1220.01 1091 1270.36C1061 1320.71 1017 1332.33 945 1338.14C873 1343.95 723 1351.7 659 1355.57Z" fill="#ADD6E3"/>
-<rect width="556.229" height="378.095" transform="matrix(0.994841 0.10145 -0.108133 0.994136 153.885 1091.23)" fill="url(#pattern0122)"/>
+<rect width="556.229" height="378.095" transform="matrix(0.994841 0.10145 -0.108133 0.994136 153.885 1091.23)" fill="url(#pattern000)"/>
 <path d="M860.536 1037.21C753.716 1046.49 614.534 1032.13 551.199 1022.92L555 1124.64C569.415 1128.66 632.277 1138.01 784.05 1139.18C935.823 1140.35 985.622 1134.54 998.5 1129.48L1005.05 1022.5C999.338 1025.59 967.356 1027.92 860.536 1037.21Z" fill="url(#paint1_linear_639_1659)"/>
 <line y1="-2.5" x2="215.271" y2="-2.5" transform="matrix(0.0187749 0.999829 -0.99984 0.0176023 550 1016.68)" stroke="#5D7E88" stroke-width="5"/>
 <line y1="-2.5" x2="217.836" y2="-2.5" transform="matrix(-0.0444718 0.998973 -0.999166 -0.0417019 1002 1013.77)" stroke="#5D7E88" stroke-width="5"/>
@@ -120,7 +120,7 @@
 <ellipse cx="1133.62" cy="101.711" rx="7.34393" ry="8.48993" fill="#FC8E19"/>
 <ellipse cx="1133.62" cy="101.711" rx="7.34393" ry="8.48993" fill="#FC8E19"/>
 <ellipse cx="1133.62" cy="101.711" rx="7.34393" ry="8.48993" fill="#62AABA"/>
-<rect x="1007" y="63" width="103" height="73" fill="url(#pattern11111)"/>
+<rect x="1007" y="63" width="103" height="73" fill="url(#pattern011)"/>
 <g filter="url(#filter4_d_639_1659)">
 <path d="M1091.24 865L1009.31 773.831L1000 765.26H1013.66V754.351L1024.21 759.805V745L1108 835.39L1094.34 829.935L1099.31 843.961H1086.9L1091.24 865Z" fill="#ADD6E3"/>
 <path d="M1091.24 865L1009.31 773.831L1000 765.26H1013.66V754.351L1024.21 759.805V745L1108 835.39L1094.34 829.935L1099.31 843.961H1086.9L1091.24 865Z" stroke="#ADD6E3" stroke-width="3"/>
@@ -129,8 +129,8 @@
 <path d="M185.241 999L103.31 907.831L94 899.26H107.655V888.351L118.207 893.805V879L202 969.39L188.345 963.935L193.31 977.961H180.897L185.241 999Z" fill="#ADD6E3"/>
 <path d="M185.241 999L103.31 907.831L94 899.26H107.655V888.351L118.207 893.805V879L202 969.39L188.345 963.935L193.31 977.961H180.897L185.241 999Z" stroke="#ADD6E3" stroke-width="3"/>
 </g>
-<rect x="35" y="17" width="1121" height="450" fill="url(#pattern1111122)"/>
-<rect x="35" y="17" width="1121" height="450" fill="url(#pattern012233)"/>
+<rect x="35" y="17" width="1121" height="450" fill="url(#pattern0112)"/>
+<rect x="35" y="17" width="1121" height="450" fill="url(#pattern01123)"/>
 </g>
 <defs>
 <filter id="filter0_d_639_1659" x="22" y="23" width="1170" height="1564" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -144,7 +144,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_639_1659"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_639_1659" result="shape"/>
 </filter>
-<pattern id="pattern0122" patternContentUnits="objectBoundingBox" width="1" height="1">
+<pattern id="pattern000" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_639_1659" transform="matrix(0.000244141 0 0 0.000359164 0 -0.0157592)"/>
 </pattern>
 <filter id="filter1_d_639_1659" x="119.5" y="768" width="973" height="208" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -177,7 +177,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_639_1659"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_639_1659" result="shape"/>
 </filter>
-<pattern id="pattern11111" patternContentUnits="objectBoundingBox" width="1" height="1">
+<pattern id="pattern011" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image1_639_1659" transform="matrix(0.00774437 0 0 0.010927 -10.4757 -0.976038)"/>
 </pattern>
 <filter id="filter4_d_639_1659" x="992.156" y="741.175" width="120.944" height="136.951" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -200,10 +200,10 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_639_1659"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_639_1659" result="shape"/>
 </filter>
-<pattern id="pattern1111122" patternContentUnits="objectBoundingBox" width="1" height="1">
+<pattern id="pattern0112" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image2_639_1659" transform="matrix(0.000613481 0 0 0.00152825 -0.000293511 0)"/>
 </pattern>
-<pattern id="pattern012233" patternContentUnits="objectBoundingBox" width="1" height="1">
+<pattern id="pattern01123" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image2_639_1659" transform="matrix(0.000613481 0 0 0.00152825 -0.000293511 0)"/>
 </pattern>
 <linearGradient id="paint0_linear_639_1659" x1="639.036" y1="960.585" x2="639.036" y2="1673.29" gradientUnits="userSpaceOnUse">
@@ -223,7 +223,7 @@
 <stop offset="1" stop-color="#E4EFF4"/>
 </linearGradient>
 <clipPath id="clip0_639_1659">
-<rect width="1220" height="1619" fill="white"/>
+<rect width="1220" height="1603" fill="white"/>
 </clipPath>
 <clipPath id="clip1_639_1659">
 <rect x="43" y="44" width="1120" height="1514" rx="51" fill="white"/>
